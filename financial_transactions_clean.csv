@@ -1,0 +1,481 @@
+Transaction_ID,Date,Month,Transaction_Type,Category,Subcategory,Description,Payment_Method,Amount_INR,Budgeted_Amount_INR,Budget_Variance_INR,Budget_Status
+TXN-0001,2025-05-24,May-2025,Expense,Food,Coffee,Coffee transaction,Debit Card,2238.97,7500,5261.030000000001,Within Budget
+TXN-0002,2025-08-25,Aug-2025,Expense,Health,Medical Visit,Medical Visit transaction,Cash,470.31,1800,1329.69,Within Budget
+TXN-0003,2025-09-23,Sep-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Cash,1088.4,5000,3911.6,Savings
+TXN-0004,2025-01-14,Jan-2025,Expense,Entertainment,Movies,Movies transaction,Cash,2575.9,1500,-1075.9,Over Transaction Budget
+TXN-0005,2025-10-11,Oct-2025,Expense,Entertainment,Streaming,Streaming transaction,Credit Card,3871.03,1500,-2371.03,Over Transaction Budget
+TXN-0006,2025-10-19,Oct-2025,Expense,Travel,Hotel,Hotel transaction,UPI,3575.05,2500,-1075.0500000000002,Over Transaction Budget
+TXN-0007,2025-08-26,Aug-2025,Expense,Shopping,Electronics,Electronics transaction,Debit Card,4286.5,3000,-1286.5,Over Transaction Budget
+TXN-0008,2025-01-13,Jan-2025,Expense,Utilities,Water Bill,Water Bill transaction,UPI,4193.65,1800,-2393.6499999999996,Over Transaction Budget
+TXN-0009,2025-05-02,May-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,UPI,2719.37,5000,2280.63,Savings
+TXN-0010,2025-12-14,Dec-2025,Expense,Food,Coffee,Coffee transaction,Debit Card,4378.04,7500,3121.96,Within Budget
+TXN-0011,2025-10-12,Oct-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,Cash,2160.82,3500,1339.1799999999998,Within Budget
+TXN-0012,2025-12-29,Dec-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,UPI,2215.4,5000,2784.6,Savings
+TXN-0013,2025-07-29,Jul-2025,Expense,Food,Restaurants,Restaurants transaction,UPI,1858.33,7500,5641.67,Within Budget
+TXN-0014,2025-12-06,Dec-2025,Expense,Food,Restaurants,Restaurants transaction,Credit Card,1935.76,7500,5564.24,Within Budget
+TXN-0015,2025-09-08,Sep-2025,Expense,Food,Groceries,Groceries transaction,UPI,1196.58,7500,6303.42,Within Budget
+TXN-0016,2025-10-08,Oct-2025,Expense,Health,Fitness,Fitness transaction,Cash,1943.28,1800,-143.27999999999997,Over Transaction Budget
+TXN-0017,2025-02-11,Feb-2025,Expense,Education,Courses,Courses transaction,UPI,3409.2,1800,-1609.1999999999998,Over Transaction Budget
+TXN-0018,2025-02-23,Feb-2025,Expense,Health,Medical Visit,Medical Visit transaction,UPI,2180.84,1800,-380.84000000000015,Over Transaction Budget
+TXN-0019,2025-11-25,Nov-2025,Expense,Utilities,Water Bill,Water Bill transaction,UPI,345.77,1800,1454.23,Within Budget
+TXN-0020,2025-01-25,Jan-2025,Expense,Health,Pharmacy,Pharmacy transaction,Debit Card,3942.61,1800,-2142.61,Over Transaction Budget
+TXN-0021,2025-08-01,Aug-2025,Expense,Housing,Home Supplies,Home Supplies transaction,Debit Card,2719.71,15000,12280.29,Within Budget
+TXN-0022,2025-01-09,Jan-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Cash,2449.3,1800,-649.3000000000002,Over Transaction Budget
+TXN-0023,2025-03-10,Mar-2025,Expense,Entertainment,Streaming,Streaming transaction,Cash,628.01,1500,871.99,Within Budget
+TXN-0024,2025-05-11,May-2025,Expense,Travel,Flights,Flights transaction,Credit Card,1335.76,2500,1164.24,Within Budget
+TXN-0025,2025-09-01,Sep-2025,Expense,Shopping,Clothing,Clothing transaction,Cash,2066.06,3000,933.94,Within Budget
+TXN-0026,2025-08-30,Aug-2025,Expense,Entertainment,Streaming,Streaming transaction,Credit Card,4043.21,1500,-2543.21,Over Transaction Budget
+TXN-0027,2025-07-06,Jul-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,UPI,3691.33,5000,1308.67,Savings
+TXN-0028,2025-11-02,Nov-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Credit Card,2489.91,5000,2510.09,Savings
+TXN-0029,2025-09-23,Sep-2025,Expense,Food,Coffee,Coffee transaction,Bank Transfer,4385.17,7500,3114.83,Within Budget
+TXN-0030,2025-07-17,Jul-2025,Expense,Education,Books,Books transaction,UPI,1945.35,1800,-145.3499999999999,Over Transaction Budget
+TXN-0031,2025-01-24,Jan-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,UPI,2652.55,1800,-852.5500000000002,Over Transaction Budget
+TXN-0032,2025-01-26,Jan-2025,Expense,Shopping,Clothing,Clothing transaction,Cash,3673.11,3000,-673.1100000000001,Over Transaction Budget
+TXN-0033,2025-09-19,Sep-2025,Expense,Shopping,Clothing,Clothing transaction,Cash,150.65,3000,2849.35,Within Budget
+TXN-0034,2025-07-06,Jul-2025,Expense,Education,Software,Software transaction,UPI,1713.89,1800,86.1099999999999,Within Budget
+TXN-0035,2025-07-07,Jul-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Cash,3549.55,5000,1450.4499999999998,Savings
+TXN-0036,2025-10-29,Oct-2025,Expense,Travel,Flights,Flights transaction,Debit Card,890.54,2500,1609.46,Within Budget
+TXN-0037,2025-11-03,Nov-2025,Expense,Housing,Rent,Rent transaction,Bank Transfer,13224.8,15000,1775.2000000000007,Within Budget
+TXN-0038,2025-08-01,Aug-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,UPI,3102.28,1800,-1302.2800000000002,Over Transaction Budget
+TXN-0039,2025-09-11,Sep-2025,Expense,Shopping,Electronics,Electronics transaction,Debit Card,3823.46,3000,-823.46,Over Transaction Budget
+TXN-0040,2025-12-28,Dec-2025,Expense,Transport,Ride Share,Not specified,Credit Card,1072.89,3500,2427.1099999999997,Within Budget
+TXN-0041,2025-04-17,Apr-2025,Expense,Utilities,Water Bill,Water Bill transaction,UPI,3539.29,1800,-1739.29,Over Transaction Budget
+TXN-0042,2025-09-14,Sep-2025,Expense,Entertainment,Streaming,Streaming transaction,Cash,2886.46,1500,-1386.46,Over Transaction Budget
+TXN-0043,2025-04-20,Apr-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,Credit Card,2052.34,3500,1447.6599999999999,Within Budget
+TXN-0044,2025-04-11,Apr-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,UPI,1696.99,5000,3303.01,Savings
+TXN-0045,2025-12-09,Dec-2025,Expense,Shopping,Clothing,Clothing transaction,UPI,3308.62,3000,-308.6199999999999,Over Transaction Budget
+TXN-0046,2025-05-31,May-2025,Expense,Entertainment,Streaming,Streaming transaction,Bank Transfer,1090.82,1500,409.18000000000006,Within Budget
+TXN-0047,2025-09-17,Sep-2025,Expense,Shopping,Clothing,Clothing transaction,Bank Transfer,4341.67,3000,-1341.67,Over Transaction Budget
+TXN-0048,2025-03-20,Mar-2025,Expense,Entertainment,Movies,Movies transaction,Debit Card,1263.76,1500,236.24,Within Budget
+TXN-0049,2025-05-01,May-2025,Expense,Health,Medical Visit,Medical Visit transaction,Cash,205.56,1800,1594.44,Within Budget
+TXN-0050,2025-08-18,Aug-2025,Expense,Travel,Flights,Flights transaction,UPI,2161.44,2500,338.55999999999995,Within Budget
+TXN-0051,2025-03-02,Mar-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,UPI,4303.53,5000,696.4700000000003,Savings
+TXN-0052,2025-01-28,Jan-2025,Expense,Shopping,Clothing,Clothing transaction,UPI,1296.96,3000,1703.04,Within Budget
+TXN-0053,2025-05-19,May-2025,Expense,Travel,Flights,Flights transaction,UPI,1494.1,2500,1005.9000000000001,Within Budget
+TXN-0054,2025-08-25,Aug-2025,Expense,Health,Medical Visit,Medical Visit transaction,Credit Card,1571.8,1800,228.20000000000005,Within Budget
+TXN-0055,2025-11-02,Nov-2025,Expense,Shopping,Personal Care,Personal Care transaction,Bank Transfer,4443.92,3000,-1443.92,Over Transaction Budget
+TXN-0056,2025-06-11,Jun-2025,Expense,Food,Groceries,Groceries transaction,Bank Transfer,3859.46,7500,3640.54,Within Budget
+TXN-0057,2025-03-20,Mar-2025,Expense,Housing,Electricity,Electricity transaction,Cash,1828.12,15000,13171.880000000001,Within Budget
+TXN-0058,2025-01-12,Jan-2025,Expense,Travel,Local Travel,Local Travel transaction,Bank Transfer,1239.36,2500,1260.64,Within Budget
+TXN-0059,2025-09-22,Sep-2025,Expense,Shopping,Personal Care,Personal Care transaction,UPI,1255.25,3000,1744.75,Within Budget
+TXN-0060,2025-03-18,Mar-2025,Expense,Health,Medical Visit,Medical Visit transaction,Credit Card,2877.13,1800,-1077.13,Over Transaction Budget
+TXN-0061,2025-05-08,May-2025,Expense,Entertainment,Movies,Movies transaction,Debit Card,3530.82,1500,-2030.8200000000002,Over Transaction Budget
+TXN-0062,2025-01-11,Jan-2025,Expense,Housing,Internet,Internet transaction,Bank Transfer,1311.18,15000,13688.82,Within Budget
+TXN-0063,2025-09-16,Sep-2025,Expense,Travel,Flights,Flights transaction,Bank Transfer,1276.75,2500,1223.25,Within Budget
+TXN-0064,2025-09-21,Sep-2025,Expense,Health,Medical Visit,Medical Visit transaction,Cash,1849.0,1800,-49.0,Over Transaction Budget
+TXN-0065,2025-08-10,Aug-2025,Expense,Transport,Fuel,Fuel transaction,Bank Transfer,2474.66,3500,1025.3400000000001,Within Budget
+TXN-0066,2025-05-26,May-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,Cash,3807.25,1800,-2007.25,Over Transaction Budget
+TXN-0067,2025-11-22,Nov-2025,Expense,Food,Groceries,Groceries transaction,Debit Card,1807.19,7500,5692.8099999999995,Within Budget
+TXN-0068,2025-04-23,Apr-2025,Expense,Health,Pharmacy,Pharmacy transaction,Credit Card,4443.75,1800,-2643.75,Over Transaction Budget
+TXN-0069,2025-09-22,Sep-2025,Expense,Shopping,Personal Care,Personal Care transaction,Debit Card,4014.59,3000,-1014.5900000000001,Over Transaction Budget
+TXN-0070,2025-09-09,Sep-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Cash,1807.99,5000,3192.01,Savings
+TXN-0071,2025-06-13,Jun-2025,Expense,Housing,Home Supplies,Home Supplies transaction,Credit Card,2736.46,15000,12263.54,Within Budget
+TXN-0072,2025-07-26,Jul-2025,Expense,Shopping,Electronics,Electronics transaction,Cash,1051.68,3000,1948.32,Within Budget
+TXN-0073,2025-10-21,Oct-2025,Expense,Travel,Flights,Flights transaction,Credit Card,1548.88,2500,951.1199999999999,Within Budget
+TXN-0074,2025-01-12,Jan-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,Debit Card,1745.44,1800,54.559999999999945,Within Budget
+TXN-0075,2025-09-22,Sep-2025,Expense,Transport,Public Transport,Public Transport transaction,Bank Transfer,4058.99,3500,-558.9899999999998,Over Transaction Budget
+TXN-0076,2025-04-04,Apr-2025,Expense,Travel,Flights,Flights transaction,Cash,2029.6,2500,470.4000000000001,Within Budget
+TXN-0077,2025-02-03,Feb-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,UPI,781.71,1800,1018.29,Within Budget
+TXN-0078,2025-03-31,Mar-2025,Expense,Shopping,Electronics,Electronics transaction,Cash,3944.13,3000,-944.1300000000001,Over Transaction Budget
+TXN-0079,2025-02-10,Feb-2025,Expense,Education,Software,Software transaction,UPI,3441.7,1800,-1641.6999999999998,Over Transaction Budget
+TXN-0080,2025-03-27,Mar-2025,Expense,Shopping,Personal Care,Personal Care transaction,Debit Card,3337.37,3000,-337.3699999999999,Over Transaction Budget
+TXN-0081,2025-11-11,Nov-2025,Expense,Entertainment,Movies,Movies transaction,Credit Card,2470.88,1500,-970.8800000000001,Over Transaction Budget
+TXN-0082,2025-06-30,Jun-2025,Expense,Travel,Hotel,Hotel transaction,UPI,3519.47,2500,-1019.4699999999998,Over Transaction Budget
+TXN-0083,2025-06-19,Jun-2025,Expense,Entertainment,Events,Events transaction,Debit Card,1785.25,1500,-285.25,Over Transaction Budget
+TXN-0084,2025-11-23,Nov-2025,Expense,Travel,Hotel,Hotel transaction,Bank Transfer,1636.71,2500,863.29,Within Budget
+TXN-0085,2025-09-30,Sep-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,UPI,4399.21,3500,-899.21,Over Transaction Budget
+TXN-0086,2025-09-11,Sep-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,Bank Transfer,1872.92,1800,-72.92000000000007,Over Transaction Budget
+TXN-0087,2025-05-29,May-2025,Expense,Travel,Flights,Flights transaction,Credit Card,3051.08,2500,-551.0799999999999,Over Transaction Budget
+TXN-0088,2025-09-20,Sep-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,UPI,1985.64,1800,-185.6400000000001,Over Transaction Budget
+TXN-0089,2025-10-01,Oct-2025,Expense,Shopping,Clothing,Clothing transaction,UPI,3832.5,3000,-832.5,Over Transaction Budget
+TXN-0090,2025-09-14,Sep-2025,Expense,Education,Books,Books transaction,Bank Transfer,1591.27,1800,208.73000000000002,Within Budget
+TXN-0091,2025-09-14,Sep-2025,Expense,Transport,Fuel,Fuel transaction,Debit Card,3264.44,3500,235.55999999999995,Within Budget
+TXN-0092,2025-12-26,Dec-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,UPI,3184.63,5000,1815.37,Savings
+TXN-0093,2025-09-21,Sep-2025,Expense,Health,Fitness,Fitness transaction,Cash,1904.73,1800,-104.73000000000002,Over Transaction Budget
+TXN-0094,2025-05-21,May-2025,Expense,Travel,Hotel,Hotel transaction,Cash,2872.16,2500,-372.15999999999985,Over Transaction Budget
+TXN-0095,2025-07-13,Jul-2025,Expense,Education,Books,Books transaction,UPI,344.01,1800,1455.99,Within Budget
+TXN-0096,2025-09-10,Sep-2025,Expense,Housing,Home Supplies,Home Supplies transaction,UPI,2697.12,15000,12302.880000000001,Within Budget
+TXN-0097,2025-12-10,Dec-2025,Expense,Housing,Rent,Rent transaction,UPI,10852.83,15000,4147.17,Within Budget
+TXN-0098,2025-03-22,Mar-2025,Expense,Housing,Internet,Internet transaction,Cash,1309.8,15000,13690.2,Within Budget
+TXN-0099,2025-09-10,Sep-2025,Expense,Education,Software,Software transaction,Debit Card,4017.02,1800,-2217.02,Over Transaction Budget
+TXN-0100,2025-06-29,Jun-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Debit Card,4012.78,5000,987.2199999999998,Savings
+TXN-0101,2025-10-07,Oct-2025,Expense,Entertainment,Events,Events transaction,UPI,3890.22,1500,-2390.22,Over Transaction Budget
+TXN-0102,2025-05-23,May-2025,Expense,Health,Pharmacy,Pharmacy transaction,Cash,672.2,1800,1127.8,Within Budget
+TXN-0103,2025-09-19,Sep-2025,Expense,Shopping,Personal Care,Personal Care transaction,Debit Card,3158.16,3000,-158.15999999999985,Over Transaction Budget
+TXN-0104,2025-04-10,Apr-2025,Expense,Entertainment,Streaming,Streaming transaction,Bank Transfer,612.05,1500,887.95,Within Budget
+TXN-0105,2025-08-28,Aug-2025,Expense,Transport,Ride Share,Ride Share transaction,Cash,931.67,3500,2568.33,Within Budget
+TXN-0106,2025-08-31,Aug-2025,Expense,Entertainment,Movies,Movies transaction,UPI,186.03,1500,1313.97,Within Budget
+TXN-0107,2025-03-24,Mar-2025,Expense,Shopping,Personal Care,Personal Care transaction,UPI,3627.78,3000,-627.7800000000002,Over Transaction Budget
+TXN-0108,2025-08-09,Aug-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Cash,1024.51,1800,775.49,Within Budget
+TXN-0109,2025-06-29,Jun-2025,Expense,Education,Books,Books transaction,Credit Card,1137.28,1800,662.72,Within Budget
+TXN-0110,2025-01-04,Jan-2025,Expense,Shopping,Clothing,Clothing transaction,Credit Card,2579.61,3000,420.3899999999999,Within Budget
+TXN-0111,2025-05-26,May-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Bank Transfer,522.24,1800,1277.76,Within Budget
+TXN-0112,2025-10-21,Oct-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Cash,1836.2,1800,-36.200000000000045,Over Transaction Budget
+TXN-0113,2025-01-12,Jan-2025,Expense,Entertainment,Streaming,Streaming transaction,Credit Card,1932.06,1500,-432.05999999999995,Over Transaction Budget
+TXN-0114,2025-10-27,Oct-2025,Expense,Travel,Local Travel,Local Travel transaction,Bank Transfer,3540.47,2500,-1040.4699999999998,Over Transaction Budget
+TXN-0115,2025-01-21,Jan-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Bank Transfer,4039.13,5000,960.8699999999999,Savings
+TXN-0116,2025-03-07,Mar-2025,Expense,Food,Groceries,Groceries transaction,Credit Card,3675.08,7500,3824.92,Within Budget
+TXN-0117,2025-12-30,Dec-2025,Expense,Transport,Public Transport,Public Transport transaction,Credit Card,3823.59,3500,-323.59000000000015,Over Transaction Budget
+TXN-0118,2025-09-04,Sep-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Credit Card,1175.17,1800,624.8299999999999,Within Budget
+TXN-0119,2025-11-02,Nov-2025,Expense,Transport,Fuel,Fuel transaction,Credit Card,1147.72,3500,2352.2799999999997,Within Budget
+TXN-0120,2025-02-03,Feb-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Cash,1657.87,5000,3342.13,Savings
+TXN-0121,2025-12-12,Dec-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,UPI,2830.21,1800,-1030.21,Over Transaction Budget
+TXN-0122,2025-10-05,Oct-2025,Expense,Health,Medical Visit,Medical Visit transaction,UPI,202.81,1800,1597.19,Within Budget
+TXN-0123,2025-07-07,Jul-2025,Expense,Food,Restaurants,Restaurants transaction,UPI,2910.36,7500,4589.639999999999,Within Budget
+TXN-0124,2025-03-17,Mar-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,Debit Card,3040.37,1800,-1240.37,Over Transaction Budget
+TXN-0125,2025-02-27,Feb-2025,Expense,Utilities,Water Bill,Water Bill transaction,Bank Transfer,2058.59,1800,-258.59000000000015,Over Transaction Budget
+TXN-0126,2025-08-20,Aug-2025,Expense,Education,Software,Software transaction,Bank Transfer,798.32,1800,1001.68,Within Budget
+TXN-0127,2025-07-06,Jul-2025,Expense,Entertainment,Movies,Movies transaction,UPI,4007.68,1500,-2507.68,Over Transaction Budget
+TXN-0128,2025-07-08,Jul-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Cash,2379.41,5000,2620.59,Savings
+TXN-0129,2025-08-31,Aug-2025,Expense,Health,Pharmacy,Pharmacy transaction,UPI,690.8,1800,1109.2,Within Budget
+TXN-0130,2025-02-25,Feb-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Bank Transfer,1711.42,5000,3288.58,Savings
+TXN-0131,2025-09-13,Sep-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Debit Card,2402.26,5000,2597.74,Savings
+TXN-0132,2025-04-09,Apr-2025,Expense,Housing,Rent,Rent transaction,Bank Transfer,12883.37,15000,2116.629999999999,Within Budget
+TXN-0133,2025-06-30,Jun-2025,Expense,Education,Books,Books transaction,Credit Card,3566.92,1800,-1766.92,Over Transaction Budget
+TXN-0134,2025-07-23,Jul-2025,Expense,Transport,Public Transport,Public Transport transaction,Credit Card,1878.02,3500,1621.98,Within Budget
+TXN-0135,2025-08-11,Aug-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Bank Transfer,4024.92,5000,975.0799999999999,Savings
+TXN-0136,2025-06-16,Jun-2025,Expense,Travel,Flights,Flights transaction,Credit Card,1155.0,2500,1345.0,Within Budget
+TXN-0137,2025-08-31,Aug-2025,Expense,Travel,Flights,Flights transaction,UPI,4140.0,2500,-1640.0,Over Transaction Budget
+TXN-0138,2025-08-22,Aug-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Cash,2646.6,5000,2353.4,Savings
+TXN-0139,2025-12-13,Dec-2025,Expense,Housing,Electricity,Electricity transaction,UPI,4242.97,15000,10757.029999999999,Within Budget
+TXN-0140,2025-12-01,Dec-2025,Expense,Food,Coffee,Coffee transaction,Cash,252.17,7500,7247.83,Within Budget
+TXN-0141,2025-07-23,Jul-2025,Expense,Housing,Rent,Rent transaction,Debit Card,14303.59,15000,696.4099999999999,Within Budget
+TXN-0142,2025-07-28,Jul-2025,Expense,Transport,Ride Share,Ride Share transaction,UPI,449.62,3500,3050.38,Within Budget
+TXN-0143,2025-07-01,Jul-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,Debit Card,3294.76,1800,-1494.7600000000002,Over Transaction Budget
+TXN-0144,2025-08-14,Aug-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Credit Card,1670.94,5000,3329.06,Savings
+TXN-0145,2025-11-26,Nov-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Bank Transfer,3745.95,1800,-1945.9499999999998,Over Transaction Budget
+TXN-0146,2025-08-18,Aug-2025,Expense,Health,Fitness,Fitness transaction,Cash,2032.85,1800,-232.8499999999999,Over Transaction Budget
+TXN-0147,2025-06-01,Jun-2025,Expense,Transport,Fuel,Fuel transaction,Debit Card,2898.28,3500,601.7199999999998,Within Budget
+TXN-0148,2025-03-08,Mar-2025,Expense,Education,Books,Books transaction,Cash,372.78,1800,1427.22,Within Budget
+TXN-0149,2025-12-08,Dec-2025,Expense,Shopping,Electronics,Electronics transaction,Bank Transfer,2707.25,3000,292.75,Within Budget
+TXN-0150,2025-03-19,Mar-2025,Expense,Health,Pharmacy,Pharmacy transaction,Cash,698.77,1800,1101.23,Within Budget
+TXN-0151,2025-10-16,Oct-2025,Expense,Housing,Home Supplies,Home Supplies transaction,Credit Card,4396.21,15000,10603.79,Within Budget
+TXN-0152,2025-09-11,Sep-2025,Expense,Housing,Electricity,Electricity transaction,Credit Card,644.77,15000,14355.23,Within Budget
+TXN-0153,2025-09-26,Sep-2025,Expense,Education,Books,Books transaction,Debit Card,1092.39,1800,707.6099999999999,Within Budget
+TXN-0154,2025-10-30,Oct-2025,Expense,Housing,Home Supplies,Home Supplies transaction,Credit Card,564.05,15000,14435.95,Within Budget
+TXN-0155,2025-09-22,Sep-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,UPI,2063.39,5000,2936.61,Savings
+TXN-0156,2025-03-18,Mar-2025,Expense,Shopping,Personal Care,Personal Care transaction,Debit Card,1655.17,3000,1344.83,Within Budget
+TXN-0157,2025-03-15,Mar-2025,Expense,Travel,Flights,Flights transaction,UPI,1084.3,2500,1415.7,Within Budget
+TXN-0158,2025-09-25,Sep-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Credit Card,1799.15,5000,3200.85,Savings
+TXN-0159,2025-05-15,May-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,UPI,1767.51,1800,32.49000000000001,Within Budget
+TXN-0160,2025-06-15,Jun-2025,Expense,Health,Fitness,Fitness transaction,Credit Card,3622.03,1800,-1822.0300000000002,Over Transaction Budget
+TXN-0161,2025-05-14,May-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,Debit Card,295.84,3500,3204.16,Within Budget
+TXN-0162,2025-07-12,Jul-2025,Expense,Shopping,Electronics,Electronics transaction,Cash,3030.72,3000,-30.7199999999998,Over Transaction Budget
+TXN-0163,2025-09-24,Sep-2025,Expense,Health,Pharmacy,Pharmacy transaction,Bank Transfer,3335.48,1800,-1535.48,Over Transaction Budget
+TXN-0164,2025-02-09,Feb-2025,Expense,Entertainment,Streaming,Streaming transaction,Bank Transfer,3632.8,1500,-2132.8,Over Transaction Budget
+TXN-0165,2025-02-12,Feb-2025,Expense,Shopping,Personal Care,Personal Care transaction,Bank Transfer,314.84,3000,2685.16,Within Budget
+TXN-0166,2025-05-11,May-2025,Expense,Health,Medical Visit,Medical Visit transaction,Bank Transfer,4199.47,1800,-2399.4700000000003,Over Transaction Budget
+TXN-0167,2025-06-05,Jun-2025,Expense,Shopping,Clothing,Clothing transaction,Debit Card,562.17,3000,2437.83,Within Budget
+TXN-0168,2025-12-17,Dec-2025,Expense,Health,Fitness,Fitness transaction,UPI,2114.71,1800,-314.71000000000004,Over Transaction Budget
+TXN-0169,2025-04-29,Apr-2025,Expense,Transport,Ride Share,Ride Share transaction,Bank Transfer,3583.11,3500,-83.11000000000013,Over Transaction Budget
+TXN-0170,2025-02-18,Feb-2025,Expense,Travel,Local Travel,Local Travel transaction,UPI,3306.58,2500,-806.5799999999999,Over Transaction Budget
+TXN-0171,2025-07-17,Jul-2025,Expense,Shopping,Personal Care,Personal Care transaction,Credit Card,2726.99,3000,273.0100000000002,Within Budget
+TXN-0172,2025-10-07,Oct-2025,Expense,Travel,Hotel,Hotel transaction,UPI,3390.07,2500,-890.0700000000002,Over Transaction Budget
+TXN-0173,2025-01-26,Jan-2025,Expense,Entertainment,Movies,Movies transaction,Credit Card,2382.68,1500,-882.6799999999998,Over Transaction Budget
+TXN-0174,2025-03-25,Mar-2025,Expense,Shopping,Personal Care,Personal Care transaction,Credit Card,1539.35,3000,1460.65,Within Budget
+TXN-0175,2025-07-28,Jul-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Debit Card,2823.3,5000,2176.7,Savings
+TXN-0176,2025-11-26,Nov-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,Bank Transfer,2582.17,1800,-782.1700000000001,Over Transaction Budget
+TXN-0177,2025-02-02,Feb-2025,Expense,Entertainment,Events,Events transaction,Bank Transfer,3094.42,1500,-1594.42,Over Transaction Budget
+TXN-0178,2025-05-26,May-2025,Expense,Education,Books,Books transaction,Debit Card,2352.25,1800,-552.25,Over Transaction Budget
+TXN-0179,2025-02-24,Feb-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Debit Card,1770.86,5000,3229.1400000000003,Savings
+TXN-0180,2025-10-16,Oct-2025,Expense,Food,Restaurants,Restaurants transaction,Debit Card,2226.68,7500,5273.32,Within Budget
+TXN-0181,2025-09-08,Sep-2025,Expense,Transport,Public Transport,Public Transport transaction,Debit Card,2004.95,3500,1495.05,Within Budget
+TXN-0182,2025-12-24,Dec-2025,Expense,Food,Restaurants,Restaurants transaction,Cash,787.88,7500,6712.12,Within Budget
+TXN-0183,2025-02-10,Feb-2025,Expense,Food,Restaurants,Restaurants transaction,UPI,2727.94,7500,4772.0599999999995,Within Budget
+TXN-0184,2025-01-30,Jan-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Debit Card,4155.74,5000,844.2600000000002,Savings
+TXN-0185,2025-02-02,Feb-2025,Expense,Food,Groceries,Groceries transaction,Bank Transfer,3794.5,7500,3705.5,Within Budget
+TXN-0186,2025-04-03,Apr-2025,Expense,Travel,Local Travel,Local Travel transaction,Debit Card,1909.85,2500,590.1500000000001,Within Budget
+TXN-0187,2025-08-08,Aug-2025,Expense,Housing,Rent,Rent transaction,Debit Card,11625.37,15000,3374.629999999999,Within Budget
+TXN-0188,2025-02-24,Feb-2025,Expense,Transport,Public Transport,Public Transport transaction,Bank Transfer,965.47,3500,2534.5299999999997,Within Budget
+TXN-0189,2025-05-17,May-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,Debit Card,188.11,3500,3311.89,Within Budget
+TXN-0190,2025-08-02,Aug-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,Credit Card,984.89,3500,2515.11,Within Budget
+TXN-0191,2025-08-12,Aug-2025,Expense,Transport,Public Transport,Public Transport transaction,Bank Transfer,425.39,3500,3074.61,Within Budget
+TXN-0192,2025-01-03,Jan-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,UPI,2647.93,5000,2352.07,Savings
+TXN-0193,2025-10-27,Oct-2025,Expense,Education,Courses,Courses transaction,Bank Transfer,3819.13,1800,-2019.13,Over Transaction Budget
+TXN-0194,2025-11-04,Nov-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,UPI,993.42,1800,806.58,Within Budget
+TXN-0195,2025-11-22,Nov-2025,Expense,Education,Courses,Courses transaction,UPI,955.31,1800,844.69,Within Budget
+TXN-0196,2025-09-28,Sep-2025,Expense,Transport,Public Transport,Public Transport transaction,Debit Card,871.15,3500,2628.85,Within Budget
+TXN-0197,2025-12-18,Dec-2025,Expense,Shopping,Personal Care,Personal Care transaction,Debit Card,4419.86,3000,-1419.8599999999997,Over Transaction Budget
+TXN-0198,2025-03-22,Mar-2025,Expense,Travel,Flights,Flights transaction,Cash,734.11,2500,1765.8899999999999,Within Budget
+TXN-0199,2025-10-01,Oct-2025,Expense,Transport,Public Transport,Public Transport transaction,Debit Card,1574.1,3500,1925.9,Within Budget
+TXN-0200,2025-04-01,Apr-2025,Expense,Housing,Rent,Rent transaction,Cash,9574.76,15000,5425.24,Within Budget
+TXN-0201,2025-06-03,Jun-2025,Expense,Travel,Local Travel,Local Travel transaction,UPI,3154.7,2500,-654.6999999999998,Over Transaction Budget
+TXN-0202,2025-11-09,Nov-2025,Expense,Travel,Hotel,Hotel transaction,Cash,392.52,2500,2107.48,Within Budget
+TXN-0203,2025-09-12,Sep-2025,Expense,Travel,Local Travel,Local Travel transaction,UPI,3532.8,2500,-1032.8000000000002,Over Transaction Budget
+TXN-0204,2025-07-12,Jul-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Debit Card,830.2,1800,969.8,Within Budget
+TXN-0205,2025-06-26,Jun-2025,Expense,Travel,Flights,Flights transaction,UPI,2638.56,2500,-138.55999999999995,Over Transaction Budget
+TXN-0206,2025-07-20,Jul-2025,Expense,Health,Pharmacy,Pharmacy transaction,Credit Card,2965.96,1800,-1165.96,Over Transaction Budget
+TXN-0207,2025-10-11,Oct-2025,Expense,Travel,Flights,Flights transaction,Credit Card,1487.23,2500,1012.77,Within Budget
+TXN-0208,2025-10-26,Oct-2025,Expense,Entertainment,Movies,Movies transaction,Debit Card,3810.63,1500,-2310.63,Over Transaction Budget
+TXN-0209,2025-10-25,Oct-2025,Expense,Entertainment,Movies,Movies transaction,Bank Transfer,2091.54,1500,-591.54,Over Transaction Budget
+TXN-0210,2025-01-08,Jan-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Credit Card,617.93,5000,4382.07,Savings
+TXN-0211,2025-04-01,Apr-2025,Expense,Utilities,Water Bill,Water Bill transaction,Bank Transfer,195.39,1800,1604.6100000000001,Within Budget
+TXN-0212,2025-09-16,Sep-2025,Expense,Housing,Rent,Rent transaction,Cash,13730.33,15000,1269.67,Within Budget
+TXN-0213,2025-05-28,May-2025,Expense,Shopping,Clothing,Clothing transaction,Cash,820.42,3000,2179.58,Within Budget
+TXN-0214,2025-10-17,Oct-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Debit Card,4363.38,5000,636.6199999999999,Savings
+TXN-0215,2025-11-16,Nov-2025,Expense,Utilities,Water Bill,Water Bill transaction,Debit Card,4293.57,1800,-2493.5699999999997,Over Transaction Budget
+TXN-0216,2025-06-07,Jun-2025,Expense,Entertainment,Streaming,Streaming transaction,Cash,529.47,1500,970.53,Within Budget
+TXN-0217,2025-11-28,Nov-2025,Expense,Housing,Electricity,Electricity transaction,UPI,2749.68,15000,12250.32,Within Budget
+TXN-0218,2025-09-18,Sep-2025,Expense,Education,Software,Software transaction,Bank Transfer,3344.28,1800,-1544.2800000000002,Over Transaction Budget
+TXN-0219,2025-03-31,Mar-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,Credit Card,3409.57,3500,90.42999999999984,Within Budget
+TXN-0220,2025-03-22,Mar-2025,Expense,Health,Fitness,Fitness transaction,Bank Transfer,4301.08,1800,-2501.08,Over Transaction Budget
+TXN-0221,2025-10-24,Oct-2025,Expense,Health,Fitness,Fitness transaction,Cash,211.72,1800,1588.28,Within Budget
+TXN-0222,2025-10-21,Oct-2025,Expense,Health,Pharmacy,Pharmacy transaction,Bank Transfer,3593.15,1800,-1793.15,Over Transaction Budget
+TXN-0223,2025-11-04,Nov-2025,Expense,Education,Courses,Courses transaction,Debit Card,378.08,1800,1421.92,Within Budget
+TXN-0224,2025-02-05,Feb-2025,Expense,Food,Restaurants,Restaurants transaction,Debit Card,2159.03,7500,5340.969999999999,Within Budget
+TXN-0225,2025-07-21,Jul-2025,Expense,Food,Groceries,Groceries transaction,Credit Card,187.09,7500,7312.91,Within Budget
+TXN-0226,2025-06-04,Jun-2025,Expense,Education,Software,Software transaction,Cash,2694.14,1800,-894.1399999999999,Over Transaction Budget
+TXN-0227,2025-10-28,Oct-2025,Expense,Health,Fitness,Fitness transaction,Credit Card,4324.25,1800,-2524.25,Over Transaction Budget
+TXN-0228,2025-03-05,Mar-2025,Expense,Education,Courses,Courses transaction,UPI,1943.85,1800,-143.8499999999999,Over Transaction Budget
+TXN-0229,2025-01-06,Jan-2025,Expense,Education,Courses,Courses transaction,Cash,2727.81,1800,-927.81,Over Transaction Budget
+TXN-0230,2025-07-08,Jul-2025,Expense,Entertainment,Movies,Movies transaction,Bank Transfer,3234.64,1500,-1734.6399999999999,Over Transaction Budget
+TXN-0231,2025-02-07,Feb-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,UPI,4414.33,5000,585.6700000000001,Savings
+TXN-0232,2025-11-02,Nov-2025,Expense,Entertainment,Events,Events transaction,Cash,4190.8,1500,-2690.8,Over Transaction Budget
+TXN-0233,2025-10-11,Oct-2025,Expense,Shopping,Clothing,Clothing transaction,Bank Transfer,768.35,3000,2231.65,Within Budget
+TXN-0234,2025-10-06,Oct-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Cash,3090.85,5000,1909.15,Savings
+TXN-0235,2025-12-18,Dec-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Bank Transfer,983.3,5000,4016.7,Savings
+TXN-0236,2025-05-05,May-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Credit Card,4816.72,5000,183.27999999999975,Savings
+TXN-0237,2025-12-12,Dec-2025,Expense,Shopping,Personal Care,Personal Care transaction,Cash,3360.78,3000,-360.7800000000002,Over Transaction Budget
+TXN-0238,2025-06-23,Jun-2025,Expense,Transport,Public Transport,Public Transport transaction,Bank Transfer,2123.35,3500,1376.65,Within Budget
+TXN-0239,2025-08-19,Aug-2025,Expense,Travel,Flights,Flights transaction,UPI,4076.66,2500,-1576.6599999999999,Over Transaction Budget
+TXN-0240,2025-04-21,Apr-2025,Expense,Travel,Local Travel,Local Travel transaction,Cash,204.11,2500,2295.89,Within Budget
+TXN-0241,2025-08-14,Aug-2025,Expense,Shopping,Personal Care,Personal Care transaction,Bank Transfer,3608.5,3000,-608.5,Over Transaction Budget
+TXN-0242,2025-09-22,Sep-2025,Expense,Travel,Hotel,Hotel transaction,Bank Transfer,2171.87,2500,328.1300000000001,Within Budget
+TXN-0243,2025-09-14,Sep-2025,Expense,Education,Software,Software transaction,Credit Card,3209.21,1800,-1409.21,Over Transaction Budget
+TXN-0244,2025-06-23,Jun-2025,Expense,Food,Restaurants,Restaurants transaction,UPI,3865.22,7500,3634.78,Within Budget
+TXN-0245,2025-03-25,Mar-2025,Expense,Transport,Ride Share,Ride Share transaction,Cash,1999.6,3500,1500.4,Within Budget
+TXN-0246,2025-09-13,Sep-2025,Expense,Food,Groceries,Groceries transaction,UPI,3485.77,7500,4014.23,Within Budget
+TXN-0247,2025-10-25,Oct-2025,Expense,Shopping,Personal Care,Personal Care transaction,UPI,2868.59,3000,131.40999999999985,Within Budget
+TXN-0248,2025-08-23,Aug-2025,Expense,Travel,Local Travel,Local Travel transaction,UPI,682.47,2500,1817.53,Within Budget
+TXN-0249,2025-11-20,Nov-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Bank Transfer,3697.12,5000,1302.88,Savings
+TXN-0250,2025-11-03,Nov-2025,Expense,Health,Fitness,Fitness transaction,Debit Card,299.41,1800,1500.59,Within Budget
+TXN-0251,2025-03-15,Mar-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Cash,3678.07,5000,1321.9299999999998,Savings
+TXN-0252,2025-09-27,Sep-2025,Expense,Travel,Hotel,Hotel transaction,Bank Transfer,1414.32,2500,1085.68,Within Budget
+TXN-0253,2025-04-09,Apr-2025,Expense,Education,Software,Software transaction,UPI,1253.84,1800,546.1600000000001,Within Budget
+TXN-0254,2025-06-12,Jun-2025,Expense,Food,Restaurants,Restaurants transaction,Credit Card,181.84,7500,7318.16,Within Budget
+TXN-0255,2025-05-24,May-2025,Expense,Food,Restaurants,Restaurants transaction,Credit Card,3411.39,7500,4088.61,Within Budget
+TXN-0256,2025-05-21,May-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,Bank Transfer,408.57,1800,1391.43,Within Budget
+TXN-0257,2025-05-18,May-2025,Expense,Health,Pharmacy,Pharmacy transaction,Credit Card,1448.11,1800,351.8900000000001,Within Budget
+TXN-0258,2025-06-26,Jun-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Cash,3188.18,1800,-1388.1799999999998,Over Transaction Budget
+TXN-0259,2025-01-28,Jan-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,Debit Card,2064.83,1800,-264.8299999999999,Over Transaction Budget
+TXN-0260,2025-02-11,Feb-2025,Expense,Entertainment,Streaming,Streaming transaction,Credit Card,4382.09,1500,-2882.09,Over Transaction Budget
+TXN-0261,2025-08-15,Aug-2025,Expense,Education,Books,Books transaction,Bank Transfer,1709.56,1800,90.44000000000005,Within Budget
+TXN-0262,2025-11-21,Nov-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Bank Transfer,2975.91,5000,2024.0900000000001,Savings
+TXN-0263,2025-07-29,Jul-2025,Expense,Housing,Electricity,Electricity transaction,Debit Card,1313.85,15000,13686.15,Within Budget
+TXN-0264,2025-06-05,Jun-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Debit Card,2589.97,5000,2410.03,Savings
+TXN-0265,2025-10-15,Oct-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Credit Card,3166.87,5000,1833.13,Savings
+TXN-0266,2025-03-03,Mar-2025,Expense,Health,Pharmacy,Pharmacy transaction,Debit Card,2240.45,1800,-440.4499999999998,Over Transaction Budget
+TXN-0267,2025-10-20,Oct-2025,Expense,Health,Pharmacy,Pharmacy transaction,Credit Card,2433.55,1800,-633.5500000000002,Over Transaction Budget
+TXN-0268,2025-07-16,Jul-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,Debit Card,1214.84,3500,2285.16,Within Budget
+TXN-0269,2025-11-06,Nov-2025,Expense,Travel,Local Travel,Local Travel transaction,Credit Card,2273.44,2500,226.55999999999995,Within Budget
+TXN-0270,2025-02-16,Feb-2025,Expense,Utilities,Water Bill,Water Bill transaction,Cash,2646.41,1800,-846.4099999999999,Over Transaction Budget
+TXN-0271,2025-07-15,Jul-2025,Expense,Utilities,Water Bill,Water Bill transaction,Cash,2595.25,1800,-795.25,Over Transaction Budget
+TXN-0272,2025-11-11,Nov-2025,Expense,Travel,Local Travel,Local Travel transaction,Cash,3851.71,2500,-1351.71,Over Transaction Budget
+TXN-0273,2025-09-22,Sep-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,UPI,3247.05,1800,-1447.0500000000002,Over Transaction Budget
+TXN-0274,2025-04-11,Apr-2025,Expense,Housing,Electricity,Electricity transaction,UPI,2995.97,15000,12004.03,Within Budget
+TXN-0275,2025-06-07,Jun-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Debit Card,1877.87,5000,3122.13,Savings
+TXN-0276,2025-08-12,Aug-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Cash,3046.07,5000,1953.9299999999998,Savings
+TXN-0277,2025-01-19,Jan-2025,Expense,Shopping,Clothing,Clothing transaction,Debit Card,1726.83,3000,1273.17,Within Budget
+TXN-0278,2025-06-29,Jun-2025,Expense,Food,Coffee,Coffee transaction,UPI,1516.4,7500,5983.6,Within Budget
+TXN-0279,2025-10-27,Oct-2025,Expense,Transport,Fuel,Fuel transaction,UPI,599.41,3500,2900.59,Within Budget
+TXN-0280,2025-07-05,Jul-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Debit Card,413.53,1800,1386.47,Within Budget
+TXN-0281,2025-12-19,Dec-2025,Expense,Health,Pharmacy,Not specified,Credit Card,4216.01,1800,-2416.01,Over Transaction Budget
+TXN-0282,2025-08-07,Aug-2025,Expense,Housing,Rent,Rent transaction,Debit Card,10011.37,15000,4988.629999999999,Within Budget
+TXN-0283,2025-10-14,Oct-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,Debit Card,2099.6,3500,1400.4,Within Budget
+TXN-0284,2025-09-01,Sep-2025,Expense,Education,Books,Books transaction,Debit Card,670.64,1800,1129.3600000000001,Within Budget
+TXN-0285,2025-08-10,Aug-2025,Expense,Education,Software,Software transaction,Cash,2079.71,1800,-279.71000000000004,Over Transaction Budget
+TXN-0286,2025-09-17,Sep-2025,Expense,Education,Books,Books transaction,Debit Card,2621.14,1800,-821.1399999999999,Over Transaction Budget
+TXN-0287,2025-11-09,Nov-2025,Expense,Shopping,Clothing,Clothing transaction,Cash,3575.86,3000,-575.8600000000001,Over Transaction Budget
+TXN-0288,2025-09-26,Sep-2025,Expense,Shopping,Personal Care,Personal Care transaction,Cash,3135.05,3000,-135.05000000000018,Over Transaction Budget
+TXN-0289,2025-07-16,Jul-2025,Expense,Housing,Home Supplies,Home Supplies transaction,Credit Card,1639.29,15000,13360.71,Within Budget
+TXN-0290,2025-10-19,Oct-2025,Expense,Education,Books,Books transaction,Cash,2688.17,1800,-888.1700000000001,Over Transaction Budget
+TXN-0291,2025-09-09,Sep-2025,Expense,Transport,Ride Share,Ride Share transaction,Credit Card,4183.01,3500,-683.0100000000002,Over Transaction Budget
+TXN-0292,2025-04-14,Apr-2025,Expense,Entertainment,Events,Events transaction,Bank Transfer,3834.17,1500,-2334.17,Over Transaction Budget
+TXN-0293,2025-07-26,Jul-2025,Expense,Health,Fitness,Fitness transaction,Credit Card,4461.5,1800,-2661.5,Over Transaction Budget
+TXN-0294,2025-05-26,May-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,UPI,3314.27,1800,-1514.27,Over Transaction Budget
+TXN-0295,2025-09-21,Sep-2025,Expense,Health,Pharmacy,Pharmacy transaction,UPI,1270.16,1800,529.8399999999999,Within Budget
+TXN-0296,2025-09-04,Sep-2025,Expense,Shopping,Clothing,Clothing transaction,UPI,1607.64,3000,1392.36,Within Budget
+TXN-0297,2025-02-17,Feb-2025,Expense,Shopping,Personal Care,Personal Care transaction,UPI,4359.19,3000,-1359.1899999999996,Over Transaction Budget
+TXN-0298,2025-09-18,Sep-2025,Expense,Food,Groceries,Groceries transaction,Debit Card,4101.94,7500,3398.0600000000004,Within Budget
+TXN-0299,2025-11-09,Nov-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Credit Card,3961.82,1800,-2161.82,Over Transaction Budget
+TXN-0300,2025-12-07,Dec-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,Bank Transfer,1722.96,3500,1777.04,Within Budget
+TXN-0301,2025-08-10,Aug-2025,Expense,Shopping,Electronics,Electronics transaction,UPI,2941.74,3000,58.26000000000022,Within Budget
+TXN-0302,2025-06-18,Jun-2025,Expense,Food,Groceries,Groceries transaction,UPI,370.24,7500,7129.76,Within Budget
+TXN-0303,2025-04-01,Apr-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Debit Card,799.56,1800,1000.44,Within Budget
+TXN-0304,2025-10-16,Oct-2025,Expense,Education,Courses,Courses transaction,Debit Card,1891.68,1800,-91.68000000000006,Over Transaction Budget
+TXN-0305,2025-10-11,Oct-2025,Expense,Shopping,Clothing,Clothing transaction,UPI,3454.22,3000,-454.2199999999998,Over Transaction Budget
+TXN-0306,2025-08-07,Aug-2025,Expense,Housing,Electricity,Electricity transaction,Cash,2546.42,15000,12453.58,Within Budget
+TXN-0307,2025-06-28,Jun-2025,Expense,Utilities,Water Bill,Water Bill transaction,Debit Card,1606.48,1800,193.51999999999998,Within Budget
+TXN-0308,2025-05-08,May-2025,Expense,Shopping,Clothing,Clothing transaction,Credit Card,533.51,3000,2466.49,Within Budget
+TXN-0309,2025-05-28,May-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,UPI,2629.07,5000,2370.93,Savings
+TXN-0310,2025-02-24,Feb-2025,Expense,Education,Books,Books transaction,Cash,1890.0,1800,-90.0,Over Transaction Budget
+TXN-0311,2025-02-21,Feb-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Debit Card,2751.57,1800,-951.5700000000002,Over Transaction Budget
+TXN-0312,2025-11-13,Nov-2025,Expense,Health,Fitness,Fitness transaction,Credit Card,864.3,1800,935.7,Within Budget
+TXN-0313,2025-10-15,Oct-2025,Expense,Travel,Flights,Flights transaction,UPI,2907.62,2500,-407.6199999999999,Over Transaction Budget
+TXN-0314,2025-10-24,Oct-2025,Expense,Education,Courses,Courses transaction,Debit Card,2607.23,1800,-807.23,Over Transaction Budget
+TXN-0315,2025-12-28,Dec-2025,Expense,Utilities,Water Bill,Water Bill transaction,Cash,3255.52,1800,-1455.52,Over Transaction Budget
+TXN-0316,2025-01-19,Jan-2025,Expense,Entertainment,Movies,Movies transaction,Cash,1923.2,1500,-423.20000000000005,Over Transaction Budget
+TXN-0317,2025-09-18,Sep-2025,Expense,Education,Software,Software transaction,Credit Card,1496.37,1800,303.6300000000001,Within Budget
+TXN-0318,2025-09-25,Sep-2025,Expense,Entertainment,Movies,Movies transaction,Debit Card,926.05,1500,573.95,Within Budget
+TXN-0319,2025-11-12,Nov-2025,Expense,Food,Coffee,Coffee transaction,Cash,1129.61,7500,6370.39,Within Budget
+TXN-0320,2025-10-15,Oct-2025,Expense,Housing,Electricity,Electricity transaction,Debit Card,4346.35,15000,10653.65,Within Budget
+TXN-0321,2025-04-04,Apr-2025,Expense,Entertainment,Streaming,Streaming transaction,Credit Card,1498.99,1500,1.009999999999991,Within Budget
+TXN-0322,2025-07-13,Jul-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,UPI,614.17,1800,1185.83,Within Budget
+TXN-0323,2025-07-24,Jul-2025,Expense,Housing,Electricity,Electricity transaction,UPI,3832.96,15000,11167.04,Within Budget
+TXN-0324,2025-03-25,Mar-2025,Expense,Education,Software,Software transaction,Credit Card,2631.11,1800,-831.1100000000001,Over Transaction Budget
+TXN-0325,2025-01-20,Jan-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Debit Card,2198.49,5000,2801.51,Savings
+TXN-0326,2025-07-05,Jul-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Bank Transfer,4085.71,1800,-2285.71,Over Transaction Budget
+TXN-0327,2025-04-16,Apr-2025,Expense,Entertainment,Events,Events transaction,Cash,389.32,1500,1110.68,Within Budget
+TXN-0328,2025-05-29,May-2025,Expense,Housing,Electricity,Electricity transaction,Cash,3612.72,15000,11387.28,Within Budget
+TXN-0329,2025-12-01,Dec-2025,Expense,Transport,Fuel,Fuel transaction,UPI,3792.47,3500,-292.4699999999998,Over Transaction Budget
+TXN-0330,2025-09-18,Sep-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Credit Card,4242.5,5000,757.5,Savings
+TXN-0331,2025-11-09,Nov-2025,Expense,Entertainment,Events,Events transaction,Bank Transfer,390.93,1500,1109.07,Within Budget
+TXN-0332,2025-03-05,Mar-2025,Expense,Shopping,Personal Care,Personal Care transaction,Bank Transfer,2246.96,3000,753.04,Within Budget
+TXN-0333,2025-11-06,Nov-2025,Expense,Transport,Fuel,Fuel transaction,UPI,3885.26,3500,-385.2600000000002,Over Transaction Budget
+TXN-0334,2025-07-07,Jul-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Cash,4730.16,5000,269.84000000000015,Savings
+TXN-0335,2025-08-03,Aug-2025,Expense,Housing,Internet,Internet transaction,UPI,3851.4,15000,11148.6,Within Budget
+TXN-0336,2025-11-13,Nov-2025,Expense,Travel,Hotel,Hotel transaction,UPI,1524.6,2500,975.4000000000001,Within Budget
+TXN-0337,2025-10-15,Oct-2025,Expense,Shopping,Clothing,Clothing transaction,Cash,3289.74,3000,-289.7399999999998,Over Transaction Budget
+TXN-0338,2025-02-02,Feb-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Credit Card,2110.44,5000,2889.56,Savings
+TXN-0339,2025-01-24,Jan-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Bank Transfer,1812.48,5000,3187.52,Savings
+TXN-0340,2025-07-10,Jul-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Debit Card,3438.05,5000,1561.9499999999998,Savings
+TXN-0341,2025-02-06,Feb-2025,Expense,Food,Coffee,Coffee transaction,UPI,818.72,7500,6681.28,Within Budget
+TXN-0342,2025-02-05,Feb-2025,Expense,Food,Coffee,Coffee transaction,UPI,4168.89,7500,3331.1099999999997,Within Budget
+TXN-0343,2025-03-29,Mar-2025,Expense,Entertainment,Movies,Movies transaction,Credit Card,2629.27,1500,-1129.27,Over Transaction Budget
+TXN-0344,2025-08-06,Aug-2025,Expense,Food,Groceries,Groceries transaction,UPI,2426.96,7500,5073.04,Within Budget
+TXN-0345,2025-06-15,Jun-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Bank Transfer,2347.76,5000,2652.24,Savings
+TXN-0346,2025-09-15,Sep-2025,Expense,Shopping,Clothing,Clothing transaction,Bank Transfer,4320.21,3000,-1320.21,Over Transaction Budget
+TXN-0347,2025-02-10,Feb-2025,Expense,Health,Pharmacy,Pharmacy transaction,Credit Card,4396.3,1800,-2596.3,Over Transaction Budget
+TXN-0348,2025-11-12,Nov-2025,Expense,Travel,Hotel,Hotel transaction,Credit Card,3997.16,2500,-1497.1599999999999,Over Transaction Budget
+TXN-0349,2025-01-11,Jan-2025,Expense,Health,Medical Visit,Medical Visit transaction,Cash,3258.46,1800,-1458.46,Over Transaction Budget
+TXN-0350,2025-03-07,Mar-2025,Expense,Health,Pharmacy,Pharmacy transaction,Cash,1106.39,1800,693.6099999999999,Within Budget
+TXN-0351,2025-04-12,Apr-2025,Expense,Housing,Internet,Internet transaction,Bank Transfer,4443.12,15000,10556.880000000001,Within Budget
+TXN-0352,2025-07-12,Jul-2025,Expense,Food,Coffee,Coffee transaction,Debit Card,856.17,7500,6643.83,Within Budget
+TXN-0353,2025-04-03,Apr-2025,Expense,Shopping,Clothing,Clothing transaction,Debit Card,4480.76,3000,-1480.7600000000002,Over Transaction Budget
+TXN-0354,2025-05-10,May-2025,Expense,Food,Coffee,Coffee transaction,Cash,2264.18,7500,5235.82,Within Budget
+TXN-0355,2025-06-12,Jun-2025,Expense,Health,Fitness,Fitness transaction,Credit Card,322.54,1800,1477.46,Within Budget
+TXN-0356,2025-07-25,Jul-2025,Expense,Housing,Home Supplies,Home Supplies transaction,Debit Card,1004.78,15000,13995.22,Within Budget
+TXN-0357,2025-01-09,Jan-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Bank Transfer,4259.41,1800,-2459.41,Over Transaction Budget
+TXN-0358,2025-01-20,Jan-2025,Expense,Shopping,Electronics,Electronics transaction,Debit Card,3936.63,3000,-936.6300000000001,Over Transaction Budget
+TXN-0359,2025-02-08,Feb-2025,Expense,Shopping,Personal Care,Personal Care transaction,UPI,2623.24,3000,376.7600000000002,Within Budget
+TXN-0360,2025-01-16,Jan-2025,Expense,Food,Restaurants,Restaurants transaction,Debit Card,301.21,7500,7198.79,Within Budget
+TXN-0361,2025-04-04,Apr-2025,Expense,Shopping,Personal Care,Personal Care transaction,Bank Transfer,4288.26,3000,-1288.2600000000002,Over Transaction Budget
+TXN-0362,2025-09-06,Sep-2025,Expense,Health,Fitness,Fitness transaction,Bank Transfer,499.01,1800,1300.99,Within Budget
+TXN-0363,2025-12-01,Dec-2025,Expense,Education,Software,Software transaction,Bank Transfer,991.75,1800,808.25,Within Budget
+TXN-0364,2025-12-08,Dec-2025,Expense,Health,Medical Visit,Medical Visit transaction,Bank Transfer,406.83,1800,1393.17,Within Budget
+TXN-0365,2025-02-04,Feb-2025,Expense,Food,Coffee,Coffee transaction,Cash,2757.92,7500,4742.08,Within Budget
+TXN-0366,2025-01-27,Jan-2025,Expense,Housing,Internet,Internet transaction,Cash,1652.54,15000,13347.46,Within Budget
+TXN-0367,2025-06-29,Jun-2025,Expense,Transport,Public Transport,Public Transport transaction,Cash,351.64,3500,3148.36,Within Budget
+TXN-0368,2025-08-05,Aug-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Debit Card,4207.63,5000,792.3699999999999,Savings
+TXN-0369,2025-03-08,Mar-2025,Expense,Transport,Fuel,Fuel transaction,Debit Card,1882.52,3500,1617.48,Within Budget
+TXN-0370,2025-04-01,Apr-2025,Expense,Transport,Public Transport,Public Transport transaction,UPI,4495.83,3500,-995.8299999999999,Over Transaction Budget
+TXN-0371,2025-03-11,Mar-2025,Expense,Education,Software,Software transaction,UPI,3095.06,1800,-1295.06,Over Transaction Budget
+TXN-0372,2025-03-28,Mar-2025,Expense,Housing,Rent,Rent transaction,Cash,14891.11,15000,108.88999999999942,Within Budget
+TXN-0373,2025-08-09,Aug-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Credit Card,4403.95,5000,596.0500000000002,Savings
+TXN-0374,2025-07-10,Jul-2025,Expense,Health,Medical Visit,Medical Visit transaction,Credit Card,405.25,1800,1394.75,Within Budget
+TXN-0375,2025-11-02,Nov-2025,Expense,Education,Books,Books transaction,Credit Card,1801.78,1800,-1.7799999999999727,Over Transaction Budget
+TXN-0376,2025-02-15,Feb-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,Bank Transfer,1284.12,3500,2215.88,Within Budget
+TXN-0377,2025-12-08,Dec-2025,Expense,Shopping,Clothing,Clothing transaction,Cash,1217.33,3000,1782.67,Within Budget
+TXN-0378,2025-08-31,Aug-2025,Expense,Shopping,Personal Care,Personal Care transaction,UPI,857.76,3000,2142.24,Within Budget
+TXN-0379,2025-08-15,Aug-2025,Expense,Transport,Ride Share,Ride Share transaction,Bank Transfer,2266.13,3500,1233.87,Within Budget
+TXN-0380,2025-07-22,Jul-2025,Expense,Housing,Home Supplies,Home Supplies transaction,Bank Transfer,1398.57,15000,13601.43,Within Budget
+TXN-0381,2025-11-14,Nov-2025,Expense,Food,Groceries,Groceries transaction,Debit Card,2604.23,7500,4895.77,Within Budget
+TXN-0382,2025-11-08,Nov-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,UPI,549.39,1800,1250.6100000000001,Within Budget
+TXN-0383,2025-04-17,Apr-2025,Expense,Education,Courses,Courses transaction,Cash,1293.69,1800,506.30999999999995,Within Budget
+TXN-0384,2025-07-01,Jul-2025,Expense,Travel,Flights,Flights transaction,Debit Card,829.21,2500,1670.79,Within Budget
+TXN-0385,2025-08-21,Aug-2025,Expense,Housing,Home Supplies,Home Supplies transaction,Bank Transfer,2608.61,15000,12391.39,Within Budget
+TXN-0386,2025-10-19,Oct-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Debit Card,3667.53,5000,1332.4699999999998,Savings
+TXN-0387,2025-08-11,Aug-2025,Expense,Health,Fitness,Fitness transaction,Debit Card,1067.79,1800,732.21,Within Budget
+TXN-0388,2025-03-03,Mar-2025,Expense,Entertainment,Streaming,Streaming transaction,Bank Transfer,4439.88,1500,-2939.88,Over Transaction Budget
+TXN-0389,2025-05-23,May-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,UPI,2000.86,5000,2999.1400000000003,Savings
+TXN-0390,2025-12-31,Dec-2025,Expense,Health,Pharmacy,Pharmacy transaction,UPI,891.22,1800,908.78,Within Budget
+TXN-0391,2025-02-13,Feb-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Debit Card,3608.31,1800,-1808.31,Over Transaction Budget
+TXN-0392,2025-12-20,Dec-2025,Expense,Utilities,Water Bill,Water Bill transaction,Bank Transfer,739.71,1800,1060.29,Within Budget
+TXN-0393,2025-02-20,Feb-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Bank Transfer,3996.46,5000,1003.54,Savings
+TXN-0394,2025-09-03,Sep-2025,Expense,Food,Groceries,Groceries transaction,Bank Transfer,2193.61,7500,5306.389999999999,Within Budget
+TXN-0395,2025-04-19,Apr-2025,Expense,Health,Pharmacy,Pharmacy transaction,Debit Card,1613.57,1800,186.43000000000006,Within Budget
+TXN-0396,2025-12-29,Dec-2025,Expense,Health,Medical Visit,Medical Visit transaction,Credit Card,3559.93,1800,-1759.9299999999998,Over Transaction Budget
+TXN-0397,2025-11-04,Nov-2025,Expense,Shopping,Clothing,Clothing transaction,Bank Transfer,4090.92,3000,-1090.92,Over Transaction Budget
+TXN-0398,2025-03-19,Mar-2025,Expense,Education,Books,Books transaction,Credit Card,291.57,1800,1508.43,Within Budget
+TXN-0399,2025-07-03,Jul-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,Cash,2080.5,3500,1419.5,Within Budget
+TXN-0400,2025-05-15,May-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Cash,2078.58,5000,2921.42,Savings
+TXN-0401,2025-06-08,Jun-2025,Expense,Entertainment,Events,Events transaction,Bank Transfer,2284.8,1500,-784.8000000000002,Over Transaction Budget
+TXN-0402,2025-07-06,Jul-2025,Expense,Housing,Internet,Internet transaction,Credit Card,3043.15,15000,11956.85,Within Budget
+TXN-0403,2025-06-21,Jun-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Bank Transfer,1397.03,5000,3602.9700000000003,Savings
+TXN-0404,2025-04-23,Apr-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Credit Card,2676.07,1800,-876.0700000000002,Over Transaction Budget
+TXN-0405,2025-08-18,Aug-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Cash,2085.77,5000,2914.23,Savings
+TXN-0406,2025-08-08,Aug-2025,Expense,Travel,Local Travel,Local Travel transaction,Cash,1991.59,2500,508.4100000000001,Within Budget
+TXN-0407,2025-12-21,Dec-2025,Expense,Transport,Ride Share,Ride Share transaction,Cash,2446.32,3500,1053.6799999999998,Within Budget
+TXN-0408,2025-05-29,May-2025,Expense,Entertainment,Streaming,Streaming transaction,Credit Card,4265.92,1500,-2765.92,Over Transaction Budget
+TXN-0409,2025-03-10,Mar-2025,Expense,Travel,Hotel,Hotel transaction,Credit Card,2074.78,2500,425.2199999999998,Within Budget
+TXN-0410,2025-12-17,Dec-2025,Expense,Housing,Rent,Rent transaction,Bank Transfer,12885.25,15000,2114.75,Within Budget
+TXN-0411,2025-06-06,Jun-2025,Expense,Travel,Hotel,Hotel transaction,Cash,801.45,2500,1698.55,Within Budget
+TXN-0412,2025-01-20,Jan-2025,Expense,Shopping,Clothing,Clothing transaction,Bank Transfer,398.09,3000,2601.91,Within Budget
+TXN-0413,2025-06-20,Jun-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,UPI,1241.23,5000,3758.77,Savings
+TXN-0414,2025-10-07,Oct-2025,Expense,Entertainment,Streaming,Streaming transaction,Cash,2293.9,1500,-793.9000000000001,Over Transaction Budget
+TXN-0415,2025-08-29,Aug-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,UPI,1943.88,5000,3056.12,Savings
+TXN-0416,2025-09-28,Sep-2025,Expense,Health,Fitness,Fitness transaction,Cash,3195.1,1800,-1395.1,Over Transaction Budget
+TXN-0417,2025-05-31,May-2025,Expense,Education,Courses,Courses transaction,Cash,4212.98,1800,-2412.9799999999996,Over Transaction Budget
+TXN-0418,2025-03-22,Mar-2025,Expense,Travel,Hotel,Hotel transaction,Bank Transfer,2066.05,2500,433.9499999999998,Within Budget
+TXN-0419,2025-10-16,Oct-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Bank Transfer,198.99,1800,1601.01,Within Budget
+TXN-0420,2025-12-15,Dec-2025,Expense,Food,Restaurants,Restaurants transaction,Credit Card,3914.02,7500,3585.98,Within Budget
+TXN-0421,2025-08-19,Aug-2025,Expense,Travel,Flights,Flights transaction,Credit Card,1071.6,2500,1428.4,Within Budget
+TXN-0422,2025-08-11,Aug-2025,Expense,Travel,Hotel,Hotel transaction,Bank Transfer,4150.97,2500,-1650.9700000000003,Over Transaction Budget
+TXN-0423,2025-07-07,Jul-2025,Expense,Travel,Flights,Flights transaction,Debit Card,691.61,2500,1808.3899999999999,Within Budget
+TXN-0424,2025-11-19,Nov-2025,Expense,Health,Pharmacy,Pharmacy transaction,Cash,802.71,1800,997.29,Within Budget
+TXN-0425,2025-03-30,Mar-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Cash,3511.57,1800,-1711.5700000000002,Over Transaction Budget
+TXN-0426,2025-11-10,Nov-2025,Expense,Shopping,Electronics,Electronics transaction,UPI,4358.78,3000,-1358.7799999999997,Over Transaction Budget
+TXN-0427,2025-02-24,Feb-2025,Expense,Transport,Fuel,Fuel transaction,Bank Transfer,1803.52,3500,1696.48,Within Budget
+TXN-0428,2025-07-22,Jul-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Bank Transfer,1189.87,5000,3810.13,Savings
+TXN-0429,2025-01-13,Jan-2025,Expense,Health,Medical Visit,Medical Visit transaction,Bank Transfer,1148.21,1800,651.79,Within Budget
+TXN-0430,2025-05-16,May-2025,Expense,Food,Restaurants,Restaurants transaction,Cash,637.17,7500,6862.83,Within Budget
+TXN-0431,2025-01-20,Jan-2025,Expense,Education,Courses,Courses transaction,UPI,1930.23,1800,-130.23000000000002,Over Transaction Budget
+TXN-0432,2025-01-08,Jan-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,Bank Transfer,2391.96,3500,1108.04,Within Budget
+TXN-0433,2025-01-03,Jan-2025,Expense,Education,Books,Books transaction,Debit Card,2486.47,1800,-686.4699999999998,Over Transaction Budget
+TXN-0434,2025-03-21,Mar-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,UPI,3253.26,1800,-1453.2600000000002,Over Transaction Budget
+TXN-0435,2025-05-07,May-2025,Expense,Utilities,Mobile Bill,Mobile Bill transaction,Debit Card,2190.0,1800,-390.0,Over Transaction Budget
+TXN-0436,2025-10-24,Oct-2025,Expense,Health,Medical Visit,Medical Visit transaction,Cash,1731.88,1800,68.11999999999989,Within Budget
+TXN-0437,2025-04-15,Apr-2025,Expense,Shopping,Personal Care,Personal Care transaction,Debit Card,2361.67,3000,638.3299999999999,Within Budget
+TXN-0438,2025-11-12,Nov-2025,Expense,Housing,Internet,Internet transaction,Cash,2642.91,15000,12357.09,Within Budget
+TXN-0439,2025-07-20,Jul-2025,Expense,Food,Restaurants,Restaurants transaction,Credit Card,3909.82,7500,3590.18,Within Budget
+TXN-0440,2025-01-14,Jan-2025,Expense,Housing,Internet,Internet transaction,Cash,2778.79,15000,12221.21,Within Budget
+TXN-0441,2025-08-12,Aug-2025,Expense,Food,Restaurants,Restaurants transaction,Cash,2364.65,7500,5135.35,Within Budget
+TXN-0442,2025-11-19,Nov-2025,Expense,Housing,Electricity,Electricity transaction,Cash,3230.25,15000,11769.75,Within Budget
+TXN-0443,2025-03-16,Mar-2025,Expense,Health,Medical Visit,Medical Visit transaction,Cash,3565.97,1800,-1765.9699999999998,Over Transaction Budget
+TXN-0444,2025-09-29,Sep-2025,Expense,Food,Coffee,Coffee transaction,Credit Card,4058.53,7500,3441.47,Within Budget
+TXN-0445,2025-05-06,May-2025,Expense,Utilities,Water Bill,Water Bill transaction,Bank Transfer,2098.15,1800,-298.1500000000001,Over Transaction Budget
+TXN-0446,2025-10-29,Oct-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Cash,3880.31,5000,1119.69,Savings
+TXN-0447,2025-07-23,Jul-2025,Expense,Education,Books,Books transaction,Bank Transfer,1420.93,1800,379.06999999999994,Within Budget
+TXN-0448,2025-11-04,Nov-2025,Expense,Entertainment,Movies,Movies transaction,Debit Card,2749.79,1500,-1249.79,Over Transaction Budget
+TXN-0449,2025-02-16,Feb-2025,Expense,Travel,Hotel,Hotel transaction,Debit Card,334.47,2500,2165.5299999999997,Within Budget
+TXN-0450,2025-09-14,Sep-2025,Expense,Entertainment,Streaming,Streaming transaction,Debit Card,763.81,1500,736.19,Within Budget
+TXN-0451,2025-10-20,Oct-2025,Expense,Travel,Local Travel,Local Travel transaction,Cash,4407.27,2500,-1907.2700000000004,Over Transaction Budget
+TXN-0452,2025-04-20,Apr-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Credit Card,2487.54,5000,2512.46,Savings
+TXN-0453,2025-04-20,Apr-2025,Expense,Travel,Local Travel,Local Travel transaction,Cash,2433.02,2500,66.98000000000002,Within Budget
+TXN-0454,2025-03-12,Mar-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Bank Transfer,1257.96,5000,3742.04,Savings
+TXN-0455,2025-05-26,May-2025,Expense,Travel,Local Travel,Local Travel transaction,UPI,1517.67,2500,982.3299999999999,Within Budget
+TXN-0456,2025-02-05,Feb-2025,Expense,Travel,Flights,Flights transaction,Debit Card,2346.48,2500,153.51999999999998,Within Budget
+TXN-0457,2025-07-01,Jul-2025,Expense,Travel,Flights,Flights transaction,Bank Transfer,3127.49,2500,-627.4899999999998,Over Transaction Budget
+TXN-0458,2025-09-04,Sep-2025,Expense,Health,Pharmacy,Pharmacy transaction,Cash,2557.79,1800,-757.79,Over Transaction Budget
+TXN-0459,2025-01-30,Jan-2025,Expense,Entertainment,Streaming,Streaming transaction,UPI,2342.25,1500,-842.25,Over Transaction Budget
+TXN-0460,2025-06-20,Jun-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,Debit Card,2409.78,3500,1090.2199999999998,Within Budget
+TXN-0461,2025-03-17,Mar-2025,Expense,Travel,Hotel,Hotel transaction,Bank Transfer,1378.72,2500,1121.28,Within Budget
+TXN-0462,2025-04-08,Apr-2025,Expense,Utilities,Water Bill,Water Bill transaction,Cash,2341.61,1800,-541.6100000000001,Over Transaction Budget
+TXN-0463,2025-07-28,Jul-2025,Expense,Health,Fitness,Fitness transaction,Cash,386.82,1800,1413.18,Within Budget
+TXN-0464,2025-01-24,Jan-2025,Expense,Housing,Home Supplies,Home Supplies transaction,UPI,673.04,15000,14326.96,Within Budget
+TXN-0465,2025-09-22,Sep-2025,Expense,Food,Restaurants,Restaurants transaction,Bank Transfer,2164.62,7500,5335.38,Within Budget
+TXN-0466,2025-08-11,Aug-2025,Expense,Education,Books,Books transaction,Debit Card,3694.6,1800,-1894.6,Over Transaction Budget
+TXN-0467,2025-07-23,Jul-2025,Expense,Housing,Rent,Rent transaction,Bank Transfer,10115.89,15000,4884.110000000001,Within Budget
+TXN-0468,2025-10-21,Oct-2025,Expense,Shopping,Clothing,Clothing transaction,UPI,361.87,3000,2638.13,Within Budget
+TXN-0469,2025-04-23,Apr-2025,Expense,Transport,Vehicle Maintenance,Vehicle Maintenance transaction,UPI,4005.2,3500,-505.1999999999998,Over Transaction Budget
+TXN-0470,2025-11-19,Nov-2025,Expense,Food,Restaurants,Restaurants transaction,Debit Card,2285.98,7500,5214.02,Within Budget
+TXN-0471,2025-10-13,Oct-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,Bank Transfer,1408.5,1800,391.5,Within Budget
+TXN-0472,2025-08-02,Aug-2025,Expense,Education,Software,Software transaction,Cash,1292.29,1800,507.71000000000004,Within Budget
+TXN-0473,2025-09-24,Sep-2025,Expense,Housing,Internet,Internet transaction,Debit Card,3255.86,15000,11744.14,Within Budget
+TXN-0474,2025-08-16,Aug-2025,Expense,Utilities,Gas Bill,Gas Bill transaction,Credit Card,1369.06,1800,430.94000000000005,Within Budget
+TXN-0475,2025-11-18,Nov-2025,Expense,Housing,Electricity,Electricity transaction,Bank Transfer,817.4,15000,14182.6,Within Budget
+TXN-0476,2025-05-22,May-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,Cash,2186.18,5000,2813.82,Savings
+TXN-0477,2025-01-01,Jan-2025,Expense,Travel,Local Travel,Local Travel transaction,Cash,2437.11,2500,62.88999999999987,Within Budget
+TXN-0478,2025-01-23,Jan-2025,Savings,Savings,Investment Contribution,Investment Contribution transaction,UPI,2040.92,5000,2959.08,Savings
+TXN-0479,2025-05-18,May-2025,Savings,Savings,Emergency Fund,Emergency Fund transaction,Bank Transfer,3365.47,5000,1634.5300000000002,Savings
+TXN-0480,2025-06-25,Jun-2025,Expense,Transport,Public Transport,Public Transport transaction,Bank Transfer,2443.27,3500,1056.73,Within Budget
